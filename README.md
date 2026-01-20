@@ -24,7 +24,7 @@ Because GitHub has limitations rendering complex interactive widgets, I have opt
 
 1. **Static View**: Open [Project-Titanic_Dataset_EDA.ipynb](Project-Titanic_Dataset_EDA.ipynb) directly in GitHub.
 2. **Interactive View**: If you want to see the full interactive `ydata-profiling` report, you can run the notebook locally or in Google Colab.
-**Google Colab link** : https://colab.research.google.com/drive/1SCDjBtge5j5bWe19KudIRDe9EZx-BwIC?usp=sharing
-**Kaggle Link** : https://www.kaggle.com/code/vishanshm/project-titanic-dataset-eda
+3. **Google Colab link** : https://colab.research.google.com/drive/1SCDjBtge5j5bWe19KudIRDe9EZx-BwIC?usp=sharing
+4. **Kaggle Link** : https://www.kaggle.com/code/vishanshm/project-titanic-dataset-eda
 ---
 *Follow my 21-day journey as I move through Machine Learning, Deep Learning, and Generative AI!*
