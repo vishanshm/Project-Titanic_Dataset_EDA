@@ -1,8 +1,4 @@
-# 21 Projects, 21 Days: ML, Deep Learning & GenAI 🚀
-
-Welcome to my journey of completing 21 AI/ML projects in 21 days with GeeksforGeeks! This repository documents my daily progress, code, and learnings.
-
-## Day 1: Data Storytelling - Analyzing Survival on the Titanic 🚢
+# Data Storytelling - Analyzing Survival on the Titanic 🚢
 
 ### Project Overview
 The goal of this project was to perform Exploratory Data Analysis (EDA) on the classic Titanic dataset to understand the factors that influenced passenger survival. This involves data cleaning, visualization, and statistical analysis.
