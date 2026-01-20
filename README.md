@@ -22,7 +22,7 @@ The goal of this project was to perform Exploratory Data Analysis (EDA) on the c
 ### 🚀 How to View the EDA
 Because GitHub has limitations rendering complex interactive widgets, I have optimized the notebook for static viewing. 
 
-1. **Static View**: Open [Project-Titanic_Dataset_EDA.ipynb](Project-Titanic_Dataset_EDA.ipynb) directly in GitHub.
+1. **Static View**: Open [Project_Titanic_Dataset_EDA.ipynb](Project_Titanic_Dataset_EDA.ipynb) directly in GitHub.
 2. **Interactive View**: If you want to see the full interactive `ydata-profiling` report, you can run the notebook locally or in Google Colab.
 3. **Google Colab link** : https://colab.research.google.com/drive/1SCDjBtge5j5bWe19KudIRDe9EZx-BwIC?usp=sharing
 4. **Kaggle Link** : https://www.kaggle.com/code/vishanshm/project-titanic-dataset-eda
