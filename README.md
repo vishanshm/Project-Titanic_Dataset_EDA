@@ -1,4 +1,4 @@
-# Data Storytelling - Analyzing Survival on the Titanic 🚢
+# Data Storytelling - Analyzing Survival on the Titanic 🚢 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCDjBtge5j5bWe19KudIRDe9EZx-BwIC?usp=sharing)
 [![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-blue.svg)](https://www.kaggle.com/code/vishanshm/project-titanic-dataset-eda)
